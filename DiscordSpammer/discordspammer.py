@@ -42,7 +42,7 @@ def thread():
 
 window = Tk()
 
-img = PhotoImage(file='evil.png')
+img = PhotoImage(file='evilds.png')
 
 window.title('Pussy Killer Spammer')
 window.config(bg='#000000')
